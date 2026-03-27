@@ -1,2 +1,2 @@
-# -project
+# LiveSync_OBS
 OBS/WebSocketを用い、ライブで複数の動画や音声を同期するシステム。LAN上の複数台PCにWebSocketで信号を送信し再生停止やシーン切り替えを行う。おまけとしてDasLoght5の同期も可能
